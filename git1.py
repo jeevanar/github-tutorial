@@ -1,2 +1,4 @@
-#print('hi')
-#print('hello')
+print('hi')
+print('hello')
+print('welcome to git tutorial')
+print('python')
