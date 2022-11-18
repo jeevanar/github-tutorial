@@ -1,4 +1,2 @@
-print('hi')
-print('hello')
-print('welcome to git tutorial')
-print('python')
+#print('hi')
+#print('hello')
